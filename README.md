@@ -3,3 +3,5 @@ VisuAlgo is a sorting algorithm visualizer , which helps to visualize the sortin
 # Live Demo
 Deployed in netllify from GitHub
 https://visualgorithm.netlify.app/
+ #
+ Made with ❤️‍🔥 by Adarsh 
